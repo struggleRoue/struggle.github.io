@@ -1,2 +1,3 @@
 # struggle.github.io
-struggle blog
+
+struggle blog start
